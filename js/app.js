@@ -30,4 +30,6 @@ document.getElementById('search_btn').addEventListener('click',function()
    loadTemperature(city);
 })
 
+
+
 loadTemperature('dhaka');
